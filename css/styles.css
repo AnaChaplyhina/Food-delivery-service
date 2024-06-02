@@ -22,25 +22,28 @@ button {
   font-family: inherit;
 }
 
+/* #region header*/
+
 .container {
   width: 1280;
   padding-left: 16px;
   padding-right: 16px;
   margin: 0 auto;
 }
-/* #region header*/
 
 .header {
 }
 
 .header .container {
     display: flex;
+    align-items: center;
 }
 
 .logo {
 }
 
 .nav {
+
 }
 
 .nav-list {
